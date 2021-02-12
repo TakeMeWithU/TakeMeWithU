@@ -1,5 +1,5 @@
 <h1>I'am Bao-Minh Le, people call me Minh  & I ❤️ code.</h1>
-
+<h3> Take me with you at any bug</h3>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TakeMeWithU.TakeMeWithU)
 
 Currently pursuing my bachelor's degree majoring in computer science from [The Univesity of La Rochelle](https://www.univ-larochelle.fr/)
@@ -26,3 +26,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Window)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakeMeWithU&hide=TeX&layout=compact)
