@@ -7,3 +7,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 [![Gmail Badge](https://img.shields.io/badge/-minh.lebao99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minh.lebao99@gmail.com)](mailto:minh.lebao99@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-LEBaoMinh-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/lebaominh97/)](https://www.facebook.com/lebaominh97/)
 [![Twitter Badge](https://img.shields.io/badge/-LEBaoMinh-blue?style=flat-square&logo=Twitter&logoColor=black&link=https://twitter.com/TakeMeWithU099)](https://twitter.com/TakeMeWithU099)
+
+
+## ⚡ Technologies
