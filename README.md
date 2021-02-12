@@ -1,5 +1,7 @@
 <h1>I'am Bao-Minh Le, people call me Minh  & I ❤️ code.</h1>
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+
 Currently pursuing my bachelor's degree majoring in computer science from [The Univesity of La Rochelle](https://www.univ-larochelle.fr/)
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
