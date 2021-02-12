@@ -21,5 +21,5 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![C#](https://img.shields.io/badge/C%23-CSharp-brightgreen)
 
 ## 💻 Tools
-[![OS](https://img.shields.io/badge/OS-Window-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/Window)
+[![OS](https://img.shields.io/badge/OS-Window-informational?style=flat-square&logo=window&logoColor=white)](https://en.wikipedia.org/wiki/Window)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
