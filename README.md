@@ -1,5 +1,6 @@
 <h1>I'am Bao-Minh Le, people call me Minh  & I ❤️ code.</h1>
 <h3> Take me with you at any bug</h3>
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TakeMeWithU.TakeMeWithU)
 
 Currently pursuing my bachelor's degree majoring in computer science from [The Univesity of La Rochelle](https://www.univ-larochelle.fr/)
