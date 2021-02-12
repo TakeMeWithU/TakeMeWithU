@@ -15,4 +15,4 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![C#](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=c#)
+![C#](https://img.shields.io/badge/-C#-336791?style=flat-square&logo=c#)
