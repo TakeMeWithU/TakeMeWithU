@@ -19,3 +19,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C#](https://img.shields.io/badge/C%23-CSharp-brightgreen)
+
+## 💻 Tools
+[![OS](https://img.shields.io/badge/OS-Window-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/Window)
+[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
